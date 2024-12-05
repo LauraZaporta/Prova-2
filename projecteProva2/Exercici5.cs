@@ -33,7 +33,7 @@ namespace projecteProva
             const string UnknownError = "Unknown error. Try again.";
 
             bool validProces;
-            int[] array = new int[4]; //CANIVARRRRRRR
+            int[] array = new int[20]; //CANIVARRRRRRR
 
             for (int i = 0; i < array.Length; i++)
             {
