@@ -50,6 +50,11 @@ namespace Exercise_Two
             {
                 Console.WriteLine(NumNotInArray);
             }
+            FirstSort.Order(array, 0, array.Length);
+            foreach (int num in array)
+            {
+                Console.Write($"{num} ");
+            }
         }
     }
 }
