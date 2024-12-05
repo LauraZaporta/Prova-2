@@ -1,0 +1,2 @@
+He escollit SearchClass com a llibreria ja que utilitza BinarySearch, un algorisme de cerca recursiu més
+eficient i comprensible que els altres presentats (menys ús de memòria i més claredat en el codi).
