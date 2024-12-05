@@ -50,7 +50,7 @@ namespace Exercise_Two
             {
                 Console.WriteLine(NumNotInArray);
             }
-            FirstSort.Order(array, 0, array.Length);
+            FirstSort.Order(array, 0, array.Length); //No sé per què no funciona
             foreach (int num in array)
             {
                 Console.Write($"{num} ");

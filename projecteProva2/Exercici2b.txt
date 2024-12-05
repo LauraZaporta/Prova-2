@@ -1,0 +1,3 @@
+He escollit el mètode QuickSort per ordenar l'array indicat perquè aquest array és petit, no està massa ordenat i no té quasi cap
+element repetit. Aquests factors afecten positivament al temps d'execució de QuickSort. No em funciona perquè l'índex està fora de rang.
+No entenc l'error però continuo amb l'examen perquè sinó no tinc temps.
